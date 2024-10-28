@@ -1,2 +1,2 @@
 # reports
-Create automated reports in Powerpoint
+Create automated reports in Powerpoint using an Excel configuration file.
